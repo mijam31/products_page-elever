@@ -1,73 +1,72 @@
 [
-    {
-      "id": 0,
-      "title": "Wireless Headphones",
-      "description": "High-quality wireless headphones with noise-canceling technology and up to 20 hours of battery life.",
-      "price": 999.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 1,
-      "title": "Smart Watch",
-      "description": "Water-resistant smart watch with health tracking, GPS, and customizable watch faces.",
-      "price": 1499.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 2,
-      "title": "Bluetooth Speaker",
-      "description": "Portable Bluetooth speaker with deep bass, 360-degree sound, and 10-hour playtime.",
-      "price": 799.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 3,
-      "title": "4K Ultra HD TV",
-      "description": "65-inch 4K Ultra HD Smart TV with HDR support and built-in streaming apps.",
-      "price": 4999.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 4,
-      "title": "Gaming Laptop",
-      "description": "Powerful gaming laptop with a 15.6-inch display, Intel i7 processor, and 16GB RAM.",
-      "price": 8999.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 5,
-      "title": "Smartphone",
-      "description": "Latest generation smartphone with a 6.5-inch display, triple-camera system, and 128GB storage.",
-      "price": 7499.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 6,
-      "title": "Electric Toothbrush",
-      "description": "Rechargeable electric toothbrush with smart sensor technology and multiple brushing modes.",
-      "price": 499.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 7,
-      "title": "Fitness Tracker",
-      "description": "Sleek fitness tracker with heart rate monitoring, sleep tracking, and step counter.",
-      "price": 599.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 8,
-      "title": "Robot Vacuum Cleaner",
-      "description": "Automatic robot vacuum cleaner with smart navigation and powerful suction.",
-      "price": 2499.99,
-      "image": "https://picsum.photos/300/300?"
-    },
-    {
-      "id": 9,
-      "title": "Air Purifier",
-      "description": "HEPA air purifier with a 3-stage filtration system to remove allergens and pollutants.",
-      "price": 1299.99,
-      "image": "https://picsum.photos/300/300?"
-    }
-  ]
-  
+  {
+    "id": 0,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise-canceling technology and up to 20 hours of battery life.",
+    "price": 999.99,
+    "image": "/img/MQTR3.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Smart Watch",
+    "description": "Water-resistant smart watch with health tracking, GPS, and customizable watch faces.",
+    "price": 1499.99,
+    "image": "/img/680502193b-1_1000x1000.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass, 360-degree sound, and 10-hour playtime.",
+    "price": 799.99,
+    "image": "/img/597793-Product-0-I-637945074777598358_414e0af1-7f7d-472e-b093-5f4563d7a5fa.webp"
+  },
+  {
+    "id": 3,
+    "title": "4K Ultra HD TV",
+    "description": "65-inch 4K Ultra HD Smart TV with HDR support and built-in streaming apps.",
+    "price": 4999.99,
+    "image": "/img/tv.webp"
+  },
+  {
+    "id": 4,
+    "title": "Gaming Laptop",
+    "description": "Powerful gaming laptop with a 15.6-inch display, Intel i7 processor, and 16GB RAM.",
+    "price": 8999.99,
+    "image": "/img/comp.avif"
+  },
+  {
+    "id": 5,
+    "title": "Smartphone",
+    "description": "Latest generation smartphone with a 6.5-inch display, triple-camera system, and 128GB storage.",
+    "price": 7499.99,
+    "image": "/img/phon.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with smart sensor technology and multiple brushing modes.",
+    "price": 499.99,
+    "image": "/img/toothbrus.webp"
+  },
+  {
+    "id": 7,
+    "title": "Fitness Tracker",
+    "description": "Sleek fitness tracker with heart rate monitoring, sleep tracking, and step counter.",
+    "price": 599.99,
+    "image": "/img/fitness"
+  },
+  {
+    "id": 8,
+    "title": "Robot Vacuum Cleaner",
+    "description": "Automatic robot vacuum cleaner with smart navigation and powerful suction.",
+    "price": 2499.99,
+    "image": "/img/robot.png"
+  },
+  {
+    "id": 9,
+    "title": "Air Purifier",
+    "description": "HEPA air purifier with a 3-stage filtration system to remove allergens and pollutants.",
+    "price": 1299.99,
+    "image": "/img/air.jpg"
+  }
+]

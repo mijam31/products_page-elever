@@ -1,12 +1,11 @@
-import { productsList } from "./products_list.js"
+import { productsList } from "./products_list.js";
+import { productPage } from "./products_page.js";
 
-const app = {}
+const app = {};
 
 app.init = async () => {
+  productsList();
+  productPage();
+};
 
-    productsList()
-
-}
-
-
-app.init()
+app.init();
